@@ -1,0 +1,34 @@
+header{
+	text-align: center;
+	align-content: center;
+	border: solid darkred;
+	margin: 20px;
+	padding: 20px;
+	background-color: red;
+}
+
+section{
+	text-align: center;
+	align-content: center;
+	border: solid;
+	margin: 20px;
+	padding: 20px;
+	background: skyblue;
+}
+
+nav{
+	text-align: center;
+	align-content: center;
+	margin: 20px;
+	padding: 20px;
+}
+
+footer{
+	text-align: center;
+	align-content: center;
+	border: solid black;
+	padding: 20px;
+	margin: 20px;
+	background-color: red;
+}
+
