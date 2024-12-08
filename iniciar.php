@@ -14,7 +14,7 @@
     <script>      
         // Configuración de Firebase
         const firebaseConfig = {
-  	apiKey: "AIzaSyAaWLIjFjySp5i5r1FtUXNW_XGnYQS_7cE",
+  	apiKey: "",
   	authDomain: "backend---interfaces.firebaseapp.com",
   	databaseURL: "https://backend---interfaces-default-rtdb.firebaseio.com",
   	projectId: "backend---interfaces",
